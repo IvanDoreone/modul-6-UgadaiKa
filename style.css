@@ -1,0 +1,10 @@
+.game-card {
+    height: 100vh;
+    font-family: 'Open Sans', monospace;
+}
+#buttonModal {
+    opacity: 0;
+}
+#buttonMinMax {
+    opacity: 0;
+}
